@@ -8,8 +8,6 @@ https://github.com/Kaggle/learntools/tree/master/learntools
 
 https://keras.io/applications/#resnet50
 
-Data: https://www.kaggle.com/dansbecker/exercise-coding-in-tensorflow-and-keras/data
+Dataset: https://www.kaggle.com/dansbecker/datasets
 
 Dog breeds dataset: https://www.kaggle.com/c/dog-breed-identification/data
-
-Hot-dog / Not hot-dog dataset: https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog
