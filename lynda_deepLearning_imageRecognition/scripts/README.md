@@ -1,3 +1,6 @@
+Deep Learning tutorials by "Adam Geitgey" from Lynda.com
+
+
 We have four different kinds of layers in this neural network. 
 1. The convolutional layers add translational invariance, 
 2. The max pooling layers down sample the data, 
