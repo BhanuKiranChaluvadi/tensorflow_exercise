@@ -6,6 +6,8 @@ https://www.kaggle.com/learn/overview
 
 https://github.com/Kaggle/learntools/tree/master/learntools
 
+https://keras.io/applications/#resnet50
+
 Data: https://www.kaggle.com/dansbecker/exercise-coding-in-tensorflow-and-keras/data
 
 Dog breeds dataset: https://www.kaggle.com/c/dog-breed-identification/data
